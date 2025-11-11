@@ -76,6 +76,21 @@
         "Docker",
         "LaTeX"
       ]
+    },
+       {
+      "name": "Soft Skills",
+      "level": "Advanced",
+      "icon": "fa-solid fa-users",
+      "keywords": [
+          "Teamwork",
+          "Communication",
+          "Time management",
+          "Problem solving",
+          "Adaptability",
+          "Responsibility",
+          "Collaboration",
+          "Attention to detail"
+      ]
     }
   ],
   "languages": [
