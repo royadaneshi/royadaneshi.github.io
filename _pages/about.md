@@ -23,8 +23,9 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I’m currently a Ph.D. student at Colorado State University.
 
-My primary research interests lie in Artificial Intelligence, Explainable AI, and Automated Planning.
+I am a Ph.D. student in Computer Science at Colorado State University.
 
-I’m passionate about developing AI systems that are more transparent and understandable to humans by exploring these areas in greater depth.
+My primary research focuses on Artificial Intelligence, with an emphasis on Explainable AI and Automated Planning.
+
+I strive to make AI agents more transparent and comprehensible to humans through my research.
