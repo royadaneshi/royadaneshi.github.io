@@ -2,10 +2,10 @@
 layout: cv
 permalink: /cv/
 title: cv
-nav: false
+nav: true
 nav_order: 5
-cv_pdf: example_pdf.pdf # you can also use external links here
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+cv_pdf: CV.pdf # you can also use external links here
+description: Academic Curriculum Vitae highlighting my research interests, publications, and professional experience in Computer Science.
 toc:
   sidebar: left
 ---

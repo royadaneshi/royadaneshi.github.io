@@ -98,13 +98,23 @@ div.container-pdf {
  * CV LIST_GROUPS styles
  *****************************/
 
+// div.list-groups {
+//   display: flex;
+//   flex-wrap: wrap;
+//   justify-content: flex-start;
+//   flex-direction: row;
+//   align-content: center;
+// }
 div.list-groups {
   display: flex;
-  flex-wrap: wrap;
-  justify-content: flex-start;
-  flex-direction: row;
-  align-content: center;
+  flex-direction: column !important;
 }
+
+div.list-group.col-md-6 {
+  width: 100% !important;
+  max-width: 100% !important;
+}
+
 
 div.list-group {
   display: flex;
@@ -153,7 +163,6 @@ td.list-group-link {
 /*****************************
  * CV TOC styles
  *****************************/
-
 a.anchor {
   display: block;
   position: relative;

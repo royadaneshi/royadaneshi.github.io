@@ -1,18 +1,15 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
-      value: Roya Daneshi
-    - name: Date of Birth
-      value: 27th November 2001
-    - name: Languages
-      value: English, Persian, Arabic
+    Full Name: Roya Daneshi
+    Date of Birth: 27th November 2001
+    Languages: English, Persian, Arabic
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
+      institution: Colorado State University
       year: 1905
       description:
         - Description 1.
