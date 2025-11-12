@@ -1,0 +1,2 @@
+to run it locally run this command in the root folder
+bundle exec jekyll serve
