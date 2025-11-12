@@ -148,7 +148,8 @@ collections:
   news:
     output: false
   projects:
-    output: false
+    output: true
+    permalink: /projects/:name/
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
