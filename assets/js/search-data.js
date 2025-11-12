@@ -9,21 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-publications",
-          title: "Publications",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/publications/";
-          },
-        },{id: "nav-projects",
-          title: "Projects",
-          description: "An overview of my academic projects, showcasing research, development, and practical implementations.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
-        },{id: "nav-curriculum-vitae",
+  },{id: "nav-curriculum-vitae",
           title: "Curriculum Vitae",
           description: "Academic Curriculum Vitae highlighting my research interests, and professional experience in Computer Science.",
           section: "Navigation",
@@ -36,6 +22,20 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
+          },
+        },{id: "nav-projects",
+          title: "Projects",
+          description: "An overview of my academic projects, showcasing research, development, and practical implementations.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
+          },
+        },{id: "nav-publications",
+          title: "Publications",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/publications/";
           },
         },{id: "post-a-post-with-plotly-js",
         
