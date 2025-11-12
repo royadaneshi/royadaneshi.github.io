@@ -77,19 +77,19 @@
         "LaTeX"
       ]
     },
-       {
+    {
       "name": "Soft Skills",
       "level": "Advanced",
       "icon": "fa-solid fa-users",
       "keywords": [
-          "Teamwork",
-          "Communication",
-          "Time management",
-          "Problem solving",
-          "Adaptability",
-          "Responsibility",
-          "Collaboration",
-          "Attention to detail"
+        "Teamwork",
+        "Communication",
+        "Time management",
+        "Problem solving",
+        "Adaptability",
+        "Responsibility",
+        "Collaboration",
+        "Attention to detail"
       ]
     }
   ],
@@ -125,44 +125,47 @@
       "name": "Personal",
       "icon": "fa-solid fa-music",
       "keywords": [
-        "Music",
         "Biking",
-        "Reading"
+        "Music",
+        "Hiking"
       ]
     }
   ],
-  "projects": [
-    {
-      "name": "Explainable AI and Human-Aware Planning Research",
-      "summary": "Ongoing Ph.D. research in Explainable Artificial Intelligence and Human-Aware Planning under the supervision of Dr. Sarath Sreedharan at Colorado State University.",
-      "highlights": [
-        "Developing interpretable AI planning systems",
-        "Model reconciling human–AI belief and intent representations to improve collaboration"
-      ],
-      "startDate": "2025-08",
-      "endDate": "",
-      "url": "https://hapi-lab.org"
-    },
-    {
-      "name": "Human-Computer Communication Research",
-      "summary": "Worked under Dr. Hossein Sameti at the SLPL Laboratory, focusing on analyzing response mechanisms in human–computer communication.",
-      "highlights": [
-        "Investigated the achievability of artificial general intelligence through dialogue-based reasoning"
-      ],
-      "startDate": "2024-08",
-      "endDate": "2025-03",
-      "url": "https://slpl.sharif.edu/"
-    },
-    {
-      "name": "Anomaly and Out-of-Distribution Detection in ML Models",
-      "summary": "Conducted research on improving model robustness through out-of-distribution (OOD) and anomaly detection under the supervision of Dr. Mohammad Hossein Rohban at the RILM Laboratory.",
-      "highlights": [
-        "Designed and evaluated OOD detection algorithms for machine learning models",
-        "Improved model robustness and performance under distributional shift"
-      ],
-      "startDate": "2024-03",
-      "endDate": "2024-08",
-      "url": "https://riml-lab.ir"
-    }
-  ]
+  "projects": {
+    "title": "Research",
+    "items": [
+      {
+        "name": "Explainable AI and Human-Aware Planning Research",
+        "summary": "Ongoing Ph.D. research in Explainable Artificial Intelligence and Human-Aware Planning under the supervision of Dr. Sarath Sreedharan at Colorado State University.",
+        "highlights": [
+          "Developing interpretable AI planning systems",
+          "Model reconciling human–AI belief and intent representations to improve collaboration"
+        ],
+        "startDate": "2025-08",
+        "endDate": "",
+        "url": "https://hapi-lab.org"
+      },
+      {
+        "name": "Human-Computer Communication Research",
+        "summary": "Worked under Dr. Hossein Sameti at the SLPL Laboratory, focusing on analyzing response mechanisms in human–computer communication.",
+        "highlights": [
+          "Investigated the achievability of artificial general intelligence through dialogue-based reasoning"
+        ],
+        "startDate": "2024-08",
+        "endDate": "2025-03",
+        "url": "https://slpl.sharif.edu/"
+      },
+      {
+        "name": "Anomaly and Out-of-Distribution Detection in ML Models",
+        "summary": "Conducted research on improving model robustness through out-of-distribution (OOD) and anomaly detection under the supervision of Dr. Mohammad Hossein Rohban at the RILM Laboratory.",
+        "highlights": [
+          "Designed and evaluated OOD detection algorithms for machine learning models",
+          "Improved model robustness and performance under distributional shift"
+        ],
+        "startDate": "2024-03",
+        "endDate": "2024-08",
+        "url": "https://riml-lab.ir"
+      }
+    ]
+  }
 }
