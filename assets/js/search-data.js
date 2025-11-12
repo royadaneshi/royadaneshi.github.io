@@ -25,14 +25,14 @@ ninja.data = [{
           },
         },{id: "nav-curriculum-vitae",
           title: "Curriculum Vitae",
-          description: "Academic Curriculum Vitae highlighting my research interests, publications, and professional experience in Computer Science.",
+          description: "Academic Curriculum Vitae highlighting my research interests, and professional experience in Computer Science.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
           },
         },{id: "nav-teaching",
           title: "Teaching",
-          description: "A summary of my teaching assistant experience and contributions to university-level computer science courses.",
+          description: "An overview of my teaching assistant experience and contributions to university-level computer science courses.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
