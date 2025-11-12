@@ -9,7 +9,7 @@ related_publications: false
 permalink: /projects/webhw1/
 ---
 
-This project is completed.
+<span style="color:green; font-weight:bold;">🟢 This project is completed.</span>
 
 In this project, I implemented a **distributed web service** composed of multiple microservices that communicate using the **gRPC protocol**.  
 To ensure secure communication between services, the system employs **Diffie-Hellman key exchange** to establish shared symmetric keys.  

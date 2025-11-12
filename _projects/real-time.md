@@ -9,7 +9,7 @@ related_publications: false
 permalink: /projects/real-time-task-scheduling-in-cloud-computing/
 ---
 
-This project is completed.
+<span style="color:green; font-weight:bold;">🟢 This project is completed.</span>
 
 In this project, we developed a **real time task scheduling framework** for cloud computing using **Ant Colony Optimization (ACO)** and **Least Laxity First (LLF)** algorithms.  
 The real time tasks were generated using the **UUNIFAST** algorithm, and the framework demonstrates how ACO-inspired scheduling can optimize resource utilization and reduce task latency.

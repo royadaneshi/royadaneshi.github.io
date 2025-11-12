@@ -9,7 +9,7 @@ related_publications: false
 permalink: /projects/todo‑app/
 ---
 
-This project is completed.
+<span style="color:green; font-weight:bold;">🟢 This project is completed.</span>
 
 In this project, we developed a **to‑do list mobile application** using Swift, allowing users to create, categorize, and manage tasks efficiently.
 Key features include:  

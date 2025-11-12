@@ -9,7 +9,7 @@ related_publications: false
 permalink: /projects/persian‑asr‑whisper/
 ---
 
-This project is completed.
+<span style="color:green; font-weight:bold;">🟢 This project is completed.</span>
 
 In this project, we developed a **Persian language ASR system** using the Whisper speech‑to‑text model by OpenAI.  
 Key features include:  

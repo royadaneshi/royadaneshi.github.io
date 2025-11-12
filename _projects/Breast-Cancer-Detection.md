@@ -9,7 +9,8 @@ related_publications: false
 permalink: /projects/explainable-breast-cancer-detection/
 ---
 
-This project is currently ongoing.
+<span style="color:orange; font-weight:bold;">🟡 This project is currently ongoing.</span>
+
 
 In this project, we aim to develop a **machine learning framework** for detecting breast cancer from mammography images.  
 We also integrate **explainable AI (XAI)** techniques to interpret model decisions and make them understandable to clinicians and medical technicians and helping verify that the model focuses on clinically relevant regions.

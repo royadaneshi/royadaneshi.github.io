@@ -9,7 +9,7 @@ related_publications: false
 permalink: /projects/modelreconciliation/
 ---
 
-This project is currently ongoing.
+<span style="color:orange; font-weight:bold;">🟡 This project is currently ongoing.</span>
 
 In this project, we aim to develop **minimal and complete explanations** that help align a human’s mental model with an AI agent’s reasoning process.  
 Our goal is to improve interpretability and trust in AI decision-making by generating explanations that are both concise and conceptually complete.

@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: A summary of my teaching assistant experience and contributions to university-level computer science courses.
+description: An overview of my teaching assistant experience and contributions to university-level computer science courses.
 nav: true
 nav_order: 6
 ---

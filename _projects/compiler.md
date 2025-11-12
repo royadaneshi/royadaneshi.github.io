@@ -9,7 +9,7 @@ related_publications: false
 permalink: /projects/compiler/
 ---
 
-This project is completed.
+<span style="color:green; font-weight:bold;">🟢 This project is completed.</span>
 
 In this project, we developed the **front-end of a compiler** for the **C-minus programming language**, a simplified subset of the C language commonly used for educational and research purposes in compiler design.  
 The compiler performs **lexical** and **syntax analysis** to translate source code into an intermediate representation.

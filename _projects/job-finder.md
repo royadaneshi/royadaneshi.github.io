@@ -9,7 +9,7 @@ related_publications: false
 permalink: /projects/jobfinder/
 ---
 
-This project is completed.
+<span style="color:green; font-weight:bold;">🟢 This project is completed.</span>
 
 In this project, we developed **Job Finder**, an application designed to help job seekers discover, track, and apply to positions efficiently.  
 Key features include:  

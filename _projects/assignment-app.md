@@ -9,7 +9,7 @@ related_publications: false
 permalink: /projects/assignment-app/
 ---
 
-This project is completed.
+<span style="color:green; font-weight:bold;">🟢 This project is completed.</span>
 
 In this project, we developed an **Android-based classroom management application** called **Assignment App** using Java.  
 The app provides dedicated panels for **professors** and **students**, enabling efficient creation, submission, and management of university assignments.

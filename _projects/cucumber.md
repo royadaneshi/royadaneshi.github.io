@@ -9,7 +9,7 @@ related_publications: false
 permalink: /projects/cucumber/
 ---
 
-This project is completed.
+<span style="color:green; font-weight:bold;">🟢 This project is completed.</span>
 
 In this project, I designed and implemented a **Behaviour‑Driven Development (BDD) test framework** inspired by Cucumber.  
 

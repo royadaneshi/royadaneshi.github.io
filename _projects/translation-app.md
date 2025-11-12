@@ -9,7 +9,7 @@ related_publications: false
 permalink: /projects/mobile-translation-app/
 ---
 
-This project is completed.
+<span style="color:green; font-weight:bold;">🟢 This project is completed.</span>
 
 In this project, we developed a **mobile translation app** that allows users to translate text between multiple languages in real time.  
 Key features include:  

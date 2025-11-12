@@ -9,7 +9,7 @@ related_publications: false
 permalink: /projects/weather‑app/
 ---
 
-This project is completed.
+<span style="color:green; font-weight:bold;">🟢 This project is completed.</span>
 
 In this project, we developed a **weather application** that retrieves and displays **real time weather information** for user‑specified locations.  
 Key features include:  

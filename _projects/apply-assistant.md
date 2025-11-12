@@ -9,7 +9,8 @@ related_publications: false
 permalink: /projects/applyassistant-web-app/
 ---
 
-This project is completed.
+
+<span style="color:green; font-weight:bold;">🟢 This project is completed.</span>
 
 In this project, we developed **Apply Assistant** web application, designed to streamline the application process—whether for jobs, university admissions, or internships.  
 Key features include:

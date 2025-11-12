@@ -9,7 +9,7 @@ related_publications: false
 permalink: /projects/cypress‑automation‑framework/
 ---
 
-This project is completed.
+<span style="color:green; font-weight:bold;">🟢 This project is completed.</span>
 
 In this project, I developed a **UI test automation framework** using Cypress to automate end‑to‑end interactions with web applications.  
 Key features include:  

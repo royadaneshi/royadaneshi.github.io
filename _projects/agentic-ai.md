@@ -9,7 +9,8 @@ related_publications: false
 permalink: /projects/agentic-ai/
 ---
 
-This project is currently ongoing.
+<span style="color:orange; font-weight:bold;">🟡 This project is currently ongoing.</span>
+
 
 In this project, we aim to develop an **agentic AI system** by designing two collaborative agents:
 1. A task-solving agent for a specific game.

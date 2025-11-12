@@ -9,7 +9,7 @@ related_publications: false
 permalink: /projects/speech2drive/
 ---
 
-This project is currently ongoing.
+<span style="color:orange; font-weight:bold;">🟡 This project is currently ongoing.</span>
 
 In this project, we developing a **voice‑controlled driving assistance system** that processes spoken commands and converts them into driving‑related actions.  
 Key features include:  
