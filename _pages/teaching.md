@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching
 description: An overview of my teaching assistant experience and contributions to university-level computer science courses.
 nav: true
-nav_order: 6
+nav_order: 3
 ---
 
 ### Teaching Assistantships

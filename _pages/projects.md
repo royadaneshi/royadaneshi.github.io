@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 description: An overview of my academic projects, showcasing research, development, and practical implementations.
 nav: true
-nav_order: 3
+nav_order: 4
 display_categories: [Computer Science]
 horizontal: false
 ---
