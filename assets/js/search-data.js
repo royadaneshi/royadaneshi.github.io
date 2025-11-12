@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-projects",
+          title: "Projects",
+          description: "A collection of my academic and research projects in Computer Science.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
+          },
         },{id: "nav-curriculum-vitae",
           title: "Curriculum Vitae",
           description: "Academic Curriculum Vitae highlighting my research interests, publications, and professional experience in Computer Science.",
@@ -409,51 +416,86 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-explainable-breast-cancer-detection",
+          title: 'Explainable Breast Cancer Detection',
+          description: "A framework for breast cancer detection from mammography scans.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+              window.location.href = "/projects/explainable-breast-cancer-detection/";
+            },},{id: "projects-mental-model-reconciliation",
+          title: 'Mental Model Reconciliation',
+          description: "Research project on aligning human and AI agent mental models.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+              window.location.href = "/projects/modelreconciliation/";
+            },},{id: "projects-agentic-ai",
+          title: 'Agentic AI',
+          description: "Research project on developing a benchmark for agentic AI.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+              window.location.href = "/projects/agentic-ai/";
+            },},{id: "projects-apply-assistant-web-app",
+          title: 'Apply Assistant Web App',
+          description: "A web‑based assistant for managing application workflows and tracking submissions.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+              window.location.href = "/projects/applyassistant-web-app/";
+            },},{id: "projects-assignment-app",
+          title: 'Assignment App',
+          description: "A mobile app for managing classes and assignments for professors and students.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
+              window.location.href = "/projects/assignment-app/";
+            },},{id: "projects-compiler",
+          title: 'Compiler',
+          description: "Design and implementation of a compiler front-end for the C-minus programming language.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
+              window.location.href = "/projects/compiler/";
+            },},{id: "projects-cucumber",
+          title: 'Cucumber',
+          description: "A behaviour‑driven development test framework using plain‑language feature files and step definitions.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
+              window.location.href = "/projects/cucumber/";
+            },},{id: "projects-cypress-automation-framework",
+          title: 'Cypress Automation Framework',
+          description: "A front‑end test automation framework built with Cypress for automated UI testing of web applications.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
+              window.location.href = "/projects/cypress%E2%80%91automation%E2%80%91framework/";
+            },},{id: "projects-job-finder-web-application",
+          title: 'Job Finder web application',
+          description: "A job‑search web application that connects job seekers with curated listings and tracking capabilities.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
+              window.location.href = "/projects/jobfinder/";
+            },},{id: "projects-persian-asr-with-whisper",
+          title: 'Persian ASR with Whisper',
+          description: "A Persian language automatic speech recognition (ASR) system.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/persian%E2%80%91asr%E2%80%91whisper/";
+            },},{id: "projects-real-time-task-scheduling-in-cloud-computing",
+          title: 'Real Time Task Scheduling in Cloud Computing',
+          description: "A framework for real time task scheduling in cloud computing using ant colony optimization.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/real-time-task-scheduling-in-cloud-computing/";
+            },},{id: "projects-speech-to-drive",
+          title: 'speech to drive',
+          description: "A voice‑controlled driving assistance system converting speech to driving commands.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/speech2drive/";
+            },},{id: "projects-todo-app",
+          title: 'Todo App',
+          description: "A mobile app for managing to‑do lists.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/todo%E2%80%91app/";
+            },},{id: "projects-mobile-translation-app",
+          title: 'Mobile Translation App',
+          description: "A mobile application for translating text between multiple languages in real time.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/mobile-translation-app/";
+            },},{id: "projects-weather-app",
+          title: 'Weather App',
+          description: "A mobile application that fetches and displays real‑time weather information for any location.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/weather%E2%80%91app/";
+            },},{id: "projects-distributed-web-service",
+          title: 'Distributed web service',
+          description: "Implementing multiple microservices that communicate securely via gRPC and Diffie-Hellman key exchange.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/webhw1/";
             },},{
         id: 'social-email',
         title: 'email',
