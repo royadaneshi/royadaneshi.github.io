@@ -12,7 +12,11 @@ nav_order: 3
 **Colorado State University**  
 *Ph.D. in Computer Science (Artificial Intelligence)*
 
-- **Introduction to Artificial Intelligence (Fall 2025 – Present)**  
+- **Discrete Structures and their Applications  (Spring 2026)**  
+  *Instructor: Dr. Vinayak Prabhu*  
+  Assisted with teaching Discrete Structures by leading recitation classes, designing and grading assignments, holding office hours, and grading exams.
+
+- **Introduction to Artificial Intelligence (Fall 2025)**  
   *Instructor: Dr. Sarath Sreedharan*  
   Assisted in designing assignments, holding office hours, and grading coursework for undergraduate students learning
   the fundamentals of AI and planning systems.
@@ -22,12 +26,12 @@ nav_order: 3
 **Sharif University of Technology**  
 *B.Sc. in Computer Engineering*
 
-- **Signals and Systems (Fall 2024 – Spring 2025)**  
+- **Signals and Systems (Fall 2024)**  
   *Instructor: Dr. Hossein Sameti*  
   Assisted in designing assignments and quizzes, grading coursework, holding problem-solving sessions, and supporting
   students in understanding system modeling, frequency response, and signal processing concepts.
 
-- **Linear Algebra (Fall 2024 – Spring 2025)**  
+- **Linear Algebra (Fall 2024)**  
   *Instructor: Dr. Samira Hossein Ghorban*  
   Assisted in designing assignments and grading coursework focused on linear transformations and matrix theory.
 
@@ -36,12 +40,12 @@ nav_order: 3
   Assisted in designing assignments and grading coursework, and helped students apply quality assurance methods and
   testing frameworks in software development.
 
-- **Web Programming (Fall 2023 – Winter 2024)**  
+- **Web Programming (Fall 2023)**  
   *Instructor: Dr. Mohammad Nazari*  
   Assisted in designing assignments, grading coursework, and providing support for coursework involving HTML, CSS,
   JavaScript, and backend web development.
 
-- **ENG Probability and Statistics (Fall 2022 – Winter 2023)**  
+- **ENG Probability and Statistics (Fall 2022)**  
   *Instructor: Dr. Ali Sharifi*  
   Assisted in designing assignments and grading, covering probability theory and statistical methods for engineers.
 
@@ -49,6 +53,6 @@ nav_order: 3
 
 ### Volunteer Teaching
 
-- **Programming Course Assistant for Incoming Students (October 2022 – February 2023)**  
+- **Programming Course Assistant for Incoming Students (Fall 2022)**  
   Provided mentorship and coding guidance for new undergraduate students, helping them strengthen their programming
   foundations in C.
