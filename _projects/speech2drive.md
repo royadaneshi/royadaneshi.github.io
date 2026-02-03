@@ -11,7 +11,7 @@ permalink: /projects/speech2drive/
 
 <span style="color:orange; font-weight:bold;">🟡 This project is currently ongoing.</span>
 
-In this project, we developing a **voice‑controlled driving assistance system** that processes spoken commands and converts them into driving‑related actions.  
+In this project, we are developing a **voice‑controlled driving assistance system** that processes spoken commands and converts them into driving‑related actions.  
 Key features include:  
 - Capturing and transcribing spoken input via speech recognition.  
 - Mapping user speech to driving commands (e.g., “turn left”, “speed up”, “stop”).  
