@@ -66,7 +66,8 @@
       "organization": "Workshop on Planning in the Era of LLMs (LM4Plan), ICAPS",
       "position": "Reviewer",
       "url": "https://llmforplanning.github.io/ICAPS26/",
-      "date": "2026-05",
+      "startDate": "2026-05",
+      "endDate": "2026-05",
       "summary": "Served as a peer reviewer for workshop paper submissions.",
       "highlights": [
         "Dublin, Ireland"
