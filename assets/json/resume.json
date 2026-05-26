@@ -61,14 +61,18 @@
       }
     ]
   },
-  "Academic Service": [
-    {
-      "role": "Reviewer",
-      "venue": "Workshop on Planning in the Era of LLMs (LM4Plan) at ICAPS",
-      "location": "Dublin, Ireland",
-      "year": "2026"
-    }
-  ],
+  "academicService": {
+    "title": "Academic Service",
+    "items": [
+      {
+        "role": "Reviewer",
+        "venue": "Workshop on Planning in the Era of LLMs (LM4Plan) at ICAPS",
+        "location": "Dublin, Ireland",
+        "date": "2026",
+        "url": "https://icaps26.icaps-conference.org"
+      }
+    ]
+  },
   "skills": [
     {
       "name": "Technical Skills",
