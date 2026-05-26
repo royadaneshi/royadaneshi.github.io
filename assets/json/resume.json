@@ -27,34 +27,46 @@
       "endDate": "2025-02"
     }
   ],
+  "projects": {
+    "title": "Research",
+    "items": [
+      {
+        "name": "Explainable AI and Human-Aware Planning Research",
+        "summary": "Ongoing Ph.D. research on Explainable Artificial Intelligence and Human-Aware Planning under the supervision of Dr. Sarath Sreedharan at the <a href='https://hapi-lab.org'>HAPI Laboratory</a>.",
+        "highlights": [
+          "Developing interpretable AI planning systems",
+          "Model reconciling human–AI belief and intent representations to improve collaboration"
+        ],
+        "startDate": "2025-08",
+        "endDate": ""
+      },
+      {
+        "name": "Human-Computer Communication Research",
+        "summary": "Conducted research on analyzing response mechanisms in human–computer communication under the supervision of Dr. Hossein Sameti at the <a href='https://slpl.sharif.edu/'>SLPL Laboratory</a>.",
+        "highlights": [
+          "Investigated the achievability of artificial general intelligence through dialogue-based reasoning"
+        ],
+        "startDate": "2024-08",
+        "endDate": "2025-03"
+      },
+      {
+        "name": "Anomaly and Out-of-Distribution Detection in ML Models",
+        "summary": "Conducted research on improving model robustness through out-of-distribution (OOD) and anomaly detection under the supervision of Dr. Mohammad Hossein Rohban at the <a href='https://riml-lab.ir'>RILM Laboratory</a>.",
+        "highlights": [
+          "Designed and evaluated OOD detection algorithms for machine learning models",
+          "Improved model robustness and performance under distributional shift"
+        ],
+        "startDate": "2024-03",
+        "endDate": "2024-08"
+      }
+    ]
+  },
   "Academic Service": [
     {
       "role": "Reviewer",
       "venue": "Workshop on Planning in the Era of LLMs (LM4Plan) at ICAPS",
       "location": "Dublin, Ireland",
       "year": "2026"
-    }
-  ],
-  "awards": [
-    {
-      "title": "Ranked 78th among more than 155,000 participants in the National University Entrance Exam",
-      "date": "2020-07",
-      "url": "",
-      "summary": "Achieved a national ranking of 78 out of over 155,000 participants in the Iranian university entrance exam (Konkur)."
-    }
-  ],
-  "certificates": [
-    {
-      "name": "CITI Program Group 2: Social/Humanistic/Behavioral Research",
-      "date": "2025-09",
-      "url": "/assets/pdf/CITI-certificate.pdf",
-      "icon": "fa-solid fa-certificate"
-    },
-    {
-      "name": "Scrum Foundations Seminar",
-      "date": "2023-04",
-      "url": "/assets/pdf/ScrumAlliance_SCRUMFOUNDATIONS_Certificate.pdf",
-      "icon": "fa-solid fa-graduation-cap"
     }
   ],
   "skills": [
@@ -102,6 +114,28 @@
       ]
     }
   ],
+  "awards": [
+    {
+      "title": "Ranked 78th among more than 155,000 participants in the National University Entrance Exam",
+      "date": "2020-07",
+      "url": "",
+      "summary": "Achieved a national ranking of 78 out of over 155,000 participants in the Iranian university entrance exam (Konkur)."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "CITI Program Group 2: Social/Humanistic/Behavioral Research",
+      "date": "2025-09",
+      "url": "/assets/pdf/CITI-certificate.pdf",
+      "icon": "fa-solid fa-certificate"
+    },
+    {
+      "name": "Scrum Foundations Seminar",
+      "date": "2023-04",
+      "url": "/assets/pdf/ScrumAlliance_SCRUMFOUNDATIONS_Certificate.pdf",
+      "icon": "fa-solid fa-graduation-cap"
+    }
+  ],
   "languages": [
     {
       "language": "Persian",
@@ -139,39 +173,5 @@
         "Hiking"
       ]
     }
-  ],
-  "projects": {
-    "title": "Research",
-    "items": [
-      {
-        "name": "Explainable AI and Human-Aware Planning Research",
-        "summary": "Ongoing Ph.D. research on Explainable Artificial Intelligence and Human-Aware Planning under the supervision of Dr. Sarath Sreedharan at the <a href='https://hapi-lab.org'>HAPI Laboratory</a>.",
-        "highlights": [
-          "Developing interpretable AI planning systems",
-          "Model reconciling human–AI belief and intent representations to improve collaboration"
-        ],
-        "startDate": "2025-08",
-        "endDate": ""
-      },
-      {
-        "name": "Human-Computer Communication Research",
-        "summary": "Conducted research on analyzing response mechanisms in human–computer communication under the supervision of Dr. Hossein Sameti at the <a href='https://slpl.sharif.edu/'>SLPL Laboratory</a>.",
-        "highlights": [
-          "Investigated the achievability of artificial general intelligence through dialogue-based reasoning"
-        ],
-        "startDate": "2024-08",
-        "endDate": "2025-03"
-      },
-      {
-        "name": "Anomaly and Out-of-Distribution Detection in ML Models",
-        "summary": "Conducted research on improving model robustness through out-of-distribution (OOD) and anomaly detection under the supervision of Dr. Mohammad Hossein Rohban at the <a href='https://riml-lab.ir'>RILM Laboratory</a>.",
-        "highlights": [
-          "Designed and evaluated OOD detection algorithms for machine learning models",
-          "Improved model robustness and performance under distributional shift"
-        ],
-        "startDate": "2024-03",
-        "endDate": "2024-08"
-      }
-    ]
-  }
+  ]
 }
