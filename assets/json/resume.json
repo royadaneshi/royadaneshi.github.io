@@ -63,11 +63,10 @@
   },
   "volunteer": [
     {
-      "organization": "Workshop on Planning in the Era of LLMs (LM4Plan), ICAPS 2026",
+      "organization": "Workshop on Planning in the Era of LLMs (LM4Plan), ICAPS",
       "position": "Reviewer",
       "url": "https://icaps26.icaps-conference.org",
-      "startDate": "2026-05",
-      "endDate": "2026-05",
+      "date": "2026-05",
       "summary": "Served as a peer reviewer for workshop paper submissions.",
       "highlights": [
         "Dublin, Ireland"
