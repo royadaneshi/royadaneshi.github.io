@@ -61,7 +61,7 @@
       }
     ]
   },
-  "academicService": {
+  "volunteer": {
     "title": "Academic Service",
     "items": [
       {
@@ -165,7 +165,7 @@
         "Artificial Intelligence",
         "Explainable AI",
         "Human-Aware Planning",
-        "Mental Model Reconciliation"
+        "Human Computer Mental Model Reconciliation"
       ]
     },
     {
