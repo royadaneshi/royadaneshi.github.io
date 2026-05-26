@@ -22,9 +22,9 @@
             <td></td>
             <td class="list-group-name">
               <div class="d-flex flex-wrap" style="gap: 6px; row-gap: 8px;">
-                {% for item in content.keywords %}
-                  <b>{{ item}}</b>{% unless forloop.last %}, {% endunless %}
-                {% endfor %}
+                {% for item in content.keywords -%}
+                  <b>{{ item }}</b>{% unless forloop.last %}, {% endunless -%}
+                {%- endfor %}
               </div>
             </td>
           </tr>
