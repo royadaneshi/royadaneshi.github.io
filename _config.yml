@@ -633,7 +633,8 @@ jsonresume:
   - education
   - publications
   - projects
-  - volunteer: "Academic Service"
+  - volunteer
+  - academicService
   - awards
   - certificates
   - skills
@@ -645,5 +646,5 @@ social:
   email: "mailto:roya.daneshi@colostate.edu"
   github: "https://github.com/royadaneshi"
   linkedin: "https://www.linkedin.com/in/roya-daneshi-8253521ba/"
-#  scholar: "https://scholar.google.com/citations?user=YOUR_ID_HERE"
+  scholar: "https://scholar.google.com/citations?user=royadaneshi&user=ofdZ0acAAAAJ"
 #  twitter: "https://twitter.com/YOUR_HANDLE"
