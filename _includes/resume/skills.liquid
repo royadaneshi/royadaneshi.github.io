@@ -23,13 +23,7 @@
             <td class="list-group-name">
               <div class="d-flex flex-wrap" style="gap: 6px; row-gap: 8px;">
                 {% for item in content.keywords %}
-                     <tr>
-                      <td></td>
-                      <td class="list-group-name">
-                        <b>{{ item }}</b>
-                      </td>
-                    </tr>
-                  </span>
+                  <b>{{ item }}</b>{% unless forloop.last %}, {% endunless %}
                 {% endfor %}
               </div>
             </td>
