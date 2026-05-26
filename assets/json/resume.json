@@ -27,6 +27,14 @@
       "endDate": "2025-02"
     }
   ],
+  "Academic Service": [
+    {
+      "role": "Reviewer",
+      "venue": "Workshop on Planning in the Era of LLMs (LM4Plan) at ICAPS",
+      "location": "Dublin, Ireland",
+      "year": "2026"
+    }
+  ],
   "awards": [
     {
       "title": "Ranked 78th among more than 155,000 participants in the National University Entrance Exam",

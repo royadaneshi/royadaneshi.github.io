@@ -14,7 +14,7 @@ nav_order: 3
 
 - **Discrete Structures and their Applications  (Spring 2026)**  
   *Instructor: Dr. Vinayak Prabhu*  
-  Assisted with teaching Discrete Structures by leading recitation classes, designing and grading assignments, holding office hours, and grading exams.
+  Assisted with teaching Discrete Structures by leading recitation classes, grading assignments and exams, and holding office hours.
 
 - **Introduction to Artificial Intelligence (Fall 2025)**  
   *Instructor: Dr. Sarath Sreedharan*  
