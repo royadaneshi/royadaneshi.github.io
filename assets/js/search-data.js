@@ -504,13 +504,6 @@ ninja.data = [{
           window.open("mailto:%72%6F%79%61%64%61%6E%65%73%68%69%32%30%30%31@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
-        id: 'social-facebook',
-        title: 'Facebook',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://facebook.com/61576932533405", "_blank");
-        },
-      },{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
