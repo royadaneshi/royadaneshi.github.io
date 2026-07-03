@@ -18,8 +18,7 @@ nav_order: 3
 
 - **Introduction to Artificial Intelligence (Fall 2025)**  
   *Instructor: Dr. Sarath Sreedharan*  
-  Assisted in designing assignments, holding office hours, and grading coursework for undergraduate students learning
-  the fundamentals of AI and planning systems.
+  Assisted in grading coursework and holding office hours for undergraduate students learning the fundamentals of AI and planning systems.
 
 ---
 
