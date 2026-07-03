@@ -7,8 +7,4 @@ nav: true
 nav_order: 5
 ---
 
-<!-- Temporarily disabled -->
-<!-- {% include bib_search.liquid %} -->
-<!-- {% bibliography %} -->
-
-_No publications available yet._
+{% bibliography %}
